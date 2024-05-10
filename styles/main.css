@@ -62,7 +62,7 @@ body {
   -moz-text-size-adjust: none;
   -ms-text-size-adjust: none;
   -webkit-text-size-adjust: none;
-  background-color: #181818;
+  background-color: #000000;
   font: normal normal 62.5%/1em 'Source Sans Pro', sans-serif;
   font-size: 62.5%;
 }
@@ -165,7 +165,7 @@ section#content article {
 
 section#content #preamble h1,
 section#content article h1 {
-  color: #ff0000;
+  color: #ff00bf;
   font: 300 22px/1.2em Source Sans Pro, sans-serif;
   padding-bottom: 1em
 }
